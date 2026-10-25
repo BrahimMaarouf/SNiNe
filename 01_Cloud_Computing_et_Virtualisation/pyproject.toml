@@ -1,0 +1,6 @@
+[project]
+name = "skyforge"
+version = "0.1.0"
+description = "SkyForge: from a bare VM to an auto-scaling cloud service with IaC"
+requires-python = ">=3.12"
+dependencies = []

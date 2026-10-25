@@ -1,0 +1,6 @@
+[project]
+name = "agentlab"
+version = "0.1.0"
+description = "AgentLab: tool-using AI agent with MCP, evals and security"
+requires-python = ">=3.12"
+dependencies = []

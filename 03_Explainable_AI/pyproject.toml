@@ -1,0 +1,6 @@
+[project]
+name = "fairlend"
+version = "0.1.0"
+description = "FairLend: an explainable, audited credit-risk model"
+requires-python = ">=3.12"
+dependencies = []

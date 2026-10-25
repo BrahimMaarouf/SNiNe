@@ -1,0 +1,23 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+.python-version.local
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Data & artefacts (tracked with DVC later, not git)
+data/
+mlruns/
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

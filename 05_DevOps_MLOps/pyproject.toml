@@ -1,0 +1,6 @@
+[project]
+name = "shipit-ml"
+version = "0.1.0"
+description = "ShipIt ML: production MLOps with CI/CD, registry and drift monitoring"
+requires-python = ">=3.12"
+dependencies = []

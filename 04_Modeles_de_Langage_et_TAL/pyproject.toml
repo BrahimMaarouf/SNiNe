@@ -1,0 +1,6 @@
+[project]
+name = "documind"
+version = "0.1.0"
+description = "DocuMind FR: bilingual document assistant from TF-IDF to RAG to LoRA"
+requires-python = ">=3.12"
+dependencies = []

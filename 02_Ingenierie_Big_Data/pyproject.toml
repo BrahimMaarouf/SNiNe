@@ -1,0 +1,6 @@
+[project]
+name = "citypulse"
+version = "0.1.0"
+description = "CityPulse Lakehouse: batch + streaming lakehouse on NYC taxi data"
+requires-python = ">=3.12"
+dependencies = []
